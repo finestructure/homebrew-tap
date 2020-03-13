@@ -5,8 +5,8 @@
 # - update sha256, confirm update works and push
 
 class Arena < Formula
-    VERSION = "0.11.0"
-    sha256 "1c7666bd82daf5ad66f9ca76ad03cdd864fe70e379a5811af7ecfc00deeed233"
+    VERSION = "0.12.0"
+    sha256 "592f8002f7286a84605ee53a12ea510fabd23226f50c9906fda4235d7ae1c2ed"
 
     desc "Describe your project"
     homepage "https://github.com/finestructure/Arena"
